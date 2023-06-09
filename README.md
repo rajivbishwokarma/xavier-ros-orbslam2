@@ -1,2 +1,7 @@
 # xavier-ros-orbslam2
-Running ROS ORB SLAM2 in NVIDIA Jetson Xavier.
+
+Component specification:
+* Board: NVIDIA Jetson Xavier NX
+* ROS: Melodic
+* SLAM: ORB-SLAM2
+* Camera: Intel RealSense DD435
